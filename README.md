@@ -1,3 +1,3 @@
 # PORTFOLIO
-## LINK: gabobregon89.github.io
+## LINK: https://gabobregon89.github.io/Lonely/index.html
 
